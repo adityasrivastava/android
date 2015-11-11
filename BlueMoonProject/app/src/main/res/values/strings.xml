@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BlueMoonProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="chooser_title">Blue Moon Project</string>
+    <string name="loginPageHeadingText">Login Page</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loginButtonText">Login</string>
+    <string name="usernameInputLabel">Username:</string>
+    <string name="passwordInputLabel">Password:</string>
+</resources>
